@@ -89,11 +89,4 @@ CHEAT SHEET (COMMANDS)
 - items:     use phone, get [item], drop [item], inventory
 - special:   sneak, steal, wait
 - meta:      help, quit
-
-
-
-[NOTE FOR GRADING]
-The game balance is tuned for a 30-day survival challenge. 
-If you wish to expedite the verification process, you can focus on testing the mechanics 
-in the Classroom (Sneak) and Office (Steal) described in Part 2, as these contain 
 the most complex logic.
